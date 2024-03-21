@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.armazemapp"
+    namespace = "com.example.armazenapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.armazemapp"
+        applicationId = "com.example.armazenapp"
         minSdk = 27
         targetSdk = 34
         versionCode = 1

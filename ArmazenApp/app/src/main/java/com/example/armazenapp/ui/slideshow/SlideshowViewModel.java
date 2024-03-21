@@ -1,4 +1,4 @@
-package com.example.armazemapp.ui.slideshow;
+package com.example.armazenapp.ui.slideshow;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

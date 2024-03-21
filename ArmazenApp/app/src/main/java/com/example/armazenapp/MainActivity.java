@@ -1,4 +1,4 @@
-package com.example.armazemapp;
+package com.example.armazenapp;
 
 import android.os.Bundle;
 import android.view.View;
@@ -14,7 +14,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.armazemapp.databinding.ActivityMainBinding;
+import com.example.armazenapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         binding.appBarMain.fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Em contrução", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });

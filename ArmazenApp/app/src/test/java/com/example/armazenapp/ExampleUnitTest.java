@@ -1,4 +1,4 @@
-package com.example.armazemapp;
+package com.example.armazenapp;
 
 import org.junit.Test;
 

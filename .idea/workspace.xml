@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="853fee69-0e1a-4b18-a08a-e04f927477f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/androidTest/java/com/example/armazenapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/ui/gallery/GalleryFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/ui/gallery/GalleryViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/ui/home/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/ui/home/HomeViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/ui/slideshow/SlideshowFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazenapp/ui/slideshow/SlideshowViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArmazenApp/app/src/test/java/com/example/armazenapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/androidTest/java/com/example/armazemapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/ui/gallery/GalleryFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/ui/gallery/GalleryViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/ui/home/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/ui/home/HomeViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/ui/slideshow/SlideshowFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/java/com/example/armazemapp/ui/slideshow/SlideshowViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_menu_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_menu_gallery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/ic_menu_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/fragment_gallery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/fragment_gallery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/fragment_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/fragment_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/layout/nav_header_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/app/src/test/java/com/example/armazemapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmazenApp/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/ArmazenApp/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dzrS6grg3dSilTTSBMCgB1qyMW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="853fee69-0e1a-4b18-a08a-e04f927477f3" name="Changes" comment="" />
+      <created>1711021748888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711021748888</updated>
+    </task>
+    <servers />
+  </component>
+</project>

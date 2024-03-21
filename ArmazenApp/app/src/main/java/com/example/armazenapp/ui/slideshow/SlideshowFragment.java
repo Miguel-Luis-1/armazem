@@ -1,4 +1,4 @@
-package com.example.armazemapp.ui.slideshow;
+package com.example.armazenapp.ui.slideshow;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.armazemapp.databinding.FragmentSlideshowBinding;
+import com.example.armazenapp.databinding.FragmentSlideshowBinding;
 
 public class SlideshowFragment extends Fragment {
 
